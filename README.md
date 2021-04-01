@@ -132,16 +132,16 @@ Of course, you can use my EFI file directly
 
  Install Clover Bootloader by carefully following the steps explained down below:
  Open Clover bootloader installer, click on continue, agree to the terms and conditions, continue,
- Click on "**Change Install Location...**" like shown in the picture below:![Change Install Location-2](/Users/libaoshan/Downloads/Change Install Location-2.png)
+ Click on "**Change Install Location...**" like shown in the picture below:![Change Install Location](https://leebais.icu/wp-content/uploads/2021/04/Change-Install-Location.png)
 
-Select the USB Flash Drive which in our case is named as "**install_osx**" like shown in the picture below:!![install_osx](/Users/libaoshan/Downloads/install_osx.png)
+Select the USB Flash Drive which in our case is named as "**install_osx**" like shown in the picture below:!![install_osx](https://leebais.icu/wp-content/uploads/2021/04/install_osx.png)
 
-Click "**Continue**", and now click on the "**Customize**" button like shown in the picture below:![Customize](/Users/libaoshan/Downloads/Customize.png)
+Click "**Continue**", and now click on the "**Customize**" button like shown in the picture below:![Customize](https://leebais.icu/wp-content/uploads/2021/04/Customize.png)
 
 At the "**Customize**" section, here we select "**Clover for UEFI booting only**" and "**Install Clover in the ESP**"
-Like shown in the picture below:![Installation Type](/Users/libaoshan/Downloads/Installation Type.png)
+Like shown in the picture below:![Installation Type](https://leebais.icu/wp-content/uploads/2021/04/Installation-Type.png)
 
-Now we expand "**UEFI Drivers**" to see the full list of the UEFI Drivers by clicking in the arrow in front of the checkbox and then we select all the UEFI Drivers that we need like i selected them in the picture down below:![UEFI Drivers](/Users/libaoshan/Downloads/UEFI Drivers.png)
+Now we expand "**UEFI Drivers**" to see the full list of the UEFI Drivers by clicking in the arrow in front of the checkbox and then we select all the UEFI Drivers that we need like i selected them in the picture down below:![UEFI Drivers](https://leebais.icu/wp-content/uploads/2021/04/UEFI-Drivers.png)
 
 Don't select "**Themes**" yet as we will customize that later after we are done with the installation.
 Now click Install, it will open a prompt for your Username and Password, write it and press Enter,
